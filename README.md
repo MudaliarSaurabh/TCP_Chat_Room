@@ -1,0 +1,1 @@
+The TCP chat room allows multiple users to communicate in real-time with features for administrators to kick or ban users. It uses the `socket` module for networking, `threading` for handling multiple clients, and `os` for file operations. The server manages client connections, message broadcasting, and command execution for administrative actions.
